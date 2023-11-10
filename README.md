@@ -6,7 +6,7 @@ This is a Microsoft Visual Studio solution template for C++ with a single projec
 
 It follows the following tutorial from <a href="https://www.youtube.com/@TheCherno">The Cherno</a>: https://www.youtube.com/watch?v=qeH9Xv_90KM
 
-
+<br>
 
 # Steps
 
@@ -26,14 +26,14 @@ Click apply and OK.
 7- Right click on your project, do a "clean" and then "build" it.  
 8- You're done. Additionally if your folder (solution) has additional "DEBUG" folders you can just delete them because they were created during our steps by the old project structure.  
 
-
+<br>
 
 # Things to Keep in Mind
 
 1- Filters are nothing but "abstract folders", they don't do shit and make Microsoft Visual Studio pile up all your files in one folder making it extremely messy.  
 2- A solution can have multiple projects inside it, but this template only has one project inside it.  
 
-
+<br>
 
 # Licensing
 
